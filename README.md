@@ -5,6 +5,7 @@ Fish is an important source of food for many people around the world. Understand
 
 # About the Dataset
 The Fish Market dataset is a collection of data on different fish species caught in the Central Market of the Portuguese city of Matosinhos. The dataset contains information on seven different fish species, including their weight, length, height, width, and other features.
+You can access the data from https://www.kaggle.com/datasets/aungpyaeap/fish-market.
 
 # Methodology
 The first step in the analysis was to explore the dataset and identify any missing or invalid values. We then visualized the data to identify any patterns or trends that could help us understand the factors that contribute to the weight of fish. We used different regression models to make predictions about the weight of fish based on the other features in the dataset. We also applied regularization techniques such as Lasso to reduce overfitting in the models.
