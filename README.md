@@ -12,5 +12,5 @@ The first step in the analysis was to explore the dataset and identify any missi
 Results:
 Our analysis of the Fish Market dataset revealed that the length and height of the fish have a significant impact on their weight. We were able to build accurate regression models to predict the weight of fish based on these factors. The Lasso regularization technique helped us improve the accuracy of our models and avoid overfitting.
 
-Conclusion:
+Conclusion
 Our analysis of the Fish Market dataset shows that the length and height of fish are important factors in determining their weight. This information can be useful for policymakers and researchers working in the fishing industry to develop strategies to improve fish yield. The use of regularization techniques such as Lasso can help improve the accuracy of predictions and avoid overfitting in regression models.
